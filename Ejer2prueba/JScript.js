@@ -101,6 +101,7 @@ function validar() {
     alert('puntaje obtenido: ' + resultado + ' / 100');
     inc=10-correctas;
     alert('respuestas correctas: ' + correctas + '\nrespuestas incorrectas: ' + inc);
+	alert('nuevos cambios ');
     
 
 }
